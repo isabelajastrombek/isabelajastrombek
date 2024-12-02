@@ -3,7 +3,7 @@
 I'm an enthusiastic **iOS Developer**, specializing in **SwiftUI** and **UIKit**. I enjoy crafting clean, user-friendly apps and blending creativity with technology.
 
 ## 🌟 Highlights
-- 🎓 Studying Information Systems at UTFPR.
+- 🎓 Studying **Information Systems** at UTFPR.
 - 🏆 **2023 Swift Student Challenge** winner.
 - 📚 Member of the **Apple Developer Academy**.
 - 🖌️ Combining design and code to create meaningful experiences.
