@@ -1,34 +1,22 @@
 # Hi there! 👋 Welcome to my GitHub profile
 
-I'm Isabela, an enthusiastic **iOS Developer** with a passion for creating elegant, user-friendly applications. I specialize in **SwiftUI** and **UIKit**, always striving to write clean, efficient, and maintainable code.
+I'm Isabela, a passionate **iOS Developer** from Brazil 🇧🇷, specializing in **SwiftUI** and **UIKit**. I enjoy crafting clean, user-friendly apps and blending creativity with technology.
 
-## 🌟 About Me
-- 🎓 Currently pursuing a degree in Information Systems at UTFPR.
-- 🏆 Winner of the **2023 Swift Student Challenge**.
-- 📚 Member of the **Apple Developer Academy**, where I'm diving deeper into software development and design.
-- 🖌️ I also love blending creativity and technology, whether through designing interfaces or crafting unique user experiences.
+## 🌟 Highlights
+- 🎓 Studying Information Systems at UTFPR.
+- 🏆 **2023 Swift Student Challenge** winner.
+- 📚 Member of the **Apple Developer Academy**.
+- 🖌️ Combining design and code to create meaningful experiences.
 
-## 🚀 My Goals
-1. Build impactful apps that make life easier and more enjoyable.
-2. Continuously improve my skills in iOS development, including SwiftUI, UIKit, and other cutting-edge technologies.
-3. Collaborate with amazing teams to solve real-world problems through innovative solutions.
-4. Contribute to the tech community by sharing knowledge and supporting others on their coding journey.
-
-## 💡 What I’m Currently Up To
-- Exploring **Core Data** and **Combine** to elevate my app's performance and interactivity.
-
-## 🌈 Fun Facts
-- I’m fluent in English (C2) and currently learning German.
-- I’m a huge fan of horror movies, creative storytelling, and nostalgic games.
-- My nickname is **IsaPizza**—long story, but it reflects my love for humor and creativity!
+## 🚀 Goals
+- Build impactful apps that solve real-world problems.
+- Master iOS technologies and explore innovative solutions.
+- Support the tech community through collaboration and mentorship.
 
 ## 📬 Let’s Connect!
-Feel free to check out my projects or get in touch if you'd like to collaborate, chat about iOS development, or share some dream app ideas!
-📩 Email: isabastosj@gmail.com 
-🌐 LinkedIn: https://www.linkedin.com/in/isabelajastrombek/
+📩 isabastosj@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/isabelajastrombek/)  
 
-Thanks for stopping by! 😊
-
+Thanks for visiting! 😊  
 
 ![](https://github-readme-stats.vercel.app/api?username=isabelajastrombek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
