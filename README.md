@@ -16,7 +16,6 @@ I'm Isabela, an enthusiastic **iOS Developer** with a passion for creating elega
 
 ## 💡 What I’m Currently Up To
 - Exploring **Core Data** and **Combine** to elevate my app's performance and interactivity.
-- Preparing for mentorship opportunities to support junior developers.
 
 ## 🌈 Fun Facts
 - I’m fluent in English (C2) and currently learning German.
@@ -24,7 +23,7 @@ I'm Isabela, an enthusiastic **iOS Developer** with a passion for creating elega
 - My nickname is **IsaPizza**—long story, but it reflects my love for humor and creativity!
 
 ## 📬 Let’s Connect!
-Feel free to check out my projects or get in touch if you'd like to collaborate, chat about iOS development, or share some dream app ideas!  
+Feel free to check out my projects or get in touch if you'd like to collaborate, chat about iOS development, or share some dream app ideas!
 📩 Email: isabastosj@gmail.com 
 🌐 LinkedIn: https://www.linkedin.com/in/isabelajastrombek/
 
