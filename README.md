@@ -1,6 +1,6 @@
-# Hi there! I'm Isabela 👋
+# Hi there! My name is Isabela 👋
 
-I'm Isabela, an enthusiastic **iOS Developer** from Brazil 🇧🇷, specializing in **SwiftUI** and **UIKit**. I enjoy crafting clean, user-friendly apps and blending creativity with technology.
+I'm an enthusiastic **iOS Developer**, specializing in **SwiftUI** and **UIKit**. I enjoy crafting clean, user-friendly apps and blending creativity with technology.
 
 ## 🌟 Highlights
 - 🎓 Studying Information Systems at UTFPR.
@@ -14,8 +14,7 @@ I'm Isabela, an enthusiastic **iOS Developer** from Brazil 🇧🇷, specializin
 - Support the tech community.
 
 ## 📬 Let’s Connect!
-📩 isabastosj@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/isabelajastrombek/)  
+📩 [E-mail](isabastosj@gmail.com) 🌐 [LinkedIn](https://www.linkedin.com/in/isabelajastrombek/)  
 
 ![](https://github-readme-stats.vercel.app/api?username=isabelajastrombek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
