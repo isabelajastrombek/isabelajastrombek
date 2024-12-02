@@ -28,3 +28,6 @@ Feel free to check out my projects or get in touch if you'd like to collaborate,
 🌐 LinkedIn: https://www.linkedin.com/in/isabelajastrombek/
 
 Thanks for stopping by! 😊
+
+
+![](https://github-readme-stats.vercel.app/api?username=isabelajastrombek&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
