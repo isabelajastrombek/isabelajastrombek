@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9bdc4fe3-e7b6-41d2-8368-658a4ea7abf8" alt="GitHub Header Image">
+  <img src="https://github.com/user-attachments/assets/7193da66-57a2-43a6-aaac-f3b4a9d0888c" alt="GitHub Header Image">
 </div>
+
 
 <p>I'm an enthusiastic <strong>iOS Developer</strong>, specializing in <strong>SwiftUI</strong> and <strong>UIKit</strong>. I enjoy crafting clean, user-friendly apps and blending creativity with technology.</p>
 
@@ -18,13 +19,6 @@
   <li>Master iOS technologies and explore innovative solutions.</li>
   <li>Support the tech community.</li>
 </ul>
-
-<h2>📊 Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabelajastrombek&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="200px" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelajastrombek&show_icons=true&theme=tokyonight" height="200px" alt="Top Languages">
-</div>
-<br>
 
 <h2>📬 We should connect!</h2>
 <p>📩 <a href="mailto:isabastosj@gmail.com">E-mail</a> | 🌐 <a href="https://www.linkedin.com/in/isabelajastrombek/">LinkedIn</a></p>
