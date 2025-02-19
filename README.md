@@ -7,10 +7,10 @@
 
 <h2>⭐️ Highlights</h2>
 <ul>
-  <li>🎓 Studying <strong>Information Systems</strong> at UTFPR.</li>
-  <li>🏆 <strong>2023 Swift Student Challenge</strong> winner.</li>
-  <li>📚 Alumni of the <strong>Apple Developer Academy</strong>.</li>
-  <li>🖌️ Combining design and code to create meaningful experiences.</li>
+  <li> Studying <strong>Information Systems</strong> at UTFPR.</li>
+  <li> <strong>2023 Swift Student Challenge</strong> winner.</li>
+  <li> Alumni of the <strong>Apple Developer Academy</strong>.</li>
+  <li> Combining design and code to create meaningful experiences.</li>
 </ul>
 
 <h2>🚀 Goals</h2>
